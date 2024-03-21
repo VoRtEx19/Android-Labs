@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab04</string>
+    <string name="text_15dp">This text is 15dp!</string>
+    <string name="text_20dp">This text is 20dp!</string>
+    <string name="text_25dp">This text is 25dp!</string>
+    <string name="text_30dp">This text is 30dp!</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="student_creds">Лев Светличный БПИ 225</string>
+</resources>

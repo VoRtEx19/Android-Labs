@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lab03</string>
+    <string name="student_credentials">Лев Светличный БПИ 225</string>
+    <string name="title_activity1">Activity 1</string>
+    <string name="title_activity2">Activity 2</string>
+    <string name="et_hint_enter_name">Введите имя:</string>
+    <string name="text_you_entered">Вы ввели:</string>
+    <string name="next">NEXT</string>
+    <string name="back">BACK</string>
+    <string name="exit">Exit</string>
+</resources>

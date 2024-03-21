@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab05</string>
+    <string name="tv_select">Select your view of silly cats:</string>
+    <string name="list_view">List View</string>
+    <string name="recycler_view">Recycler View</string>
+    <string name="grid_view">Grid View</string>
+    <string name="student_creds">Лев Светличный БПИ 225</string>
+    <string name="image_description">Image</string>
+    <string name="list_title">Enjoy silly cats in a list:</string>
+    <string name="exit">EXIT</string>
+    <string name="back">BACK</string>
+</resources>
