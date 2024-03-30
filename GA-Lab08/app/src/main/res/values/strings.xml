@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">Lab08</string>
-    <string name="confirm">Confirm</string>
-    <string name="button_text">Button Text</string>
-    <string name="press_me">Press me</string>
-    <string name="my_widget_text">My widget</string>
-    <string name="empty">Empty</string>
-    <string name="item">Item</string>
-</resources>

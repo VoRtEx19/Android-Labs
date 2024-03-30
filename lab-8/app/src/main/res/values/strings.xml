@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lab-8</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="search_site">SEARCH SITE</string>
+    <string name="fio">Светличный Лев, гр. БПИ225</string>
+    <string name="https">https://</string>
+</resources>
