@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab12</string>
+    <string name="student_name">Лев Светличный БПИ 225</string>
+    <string name="button_text">CLick me!</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lab-11</string>
+    <string name="button">Notify me</string>
+    <string name="about">О программе</string>
+</resources>
