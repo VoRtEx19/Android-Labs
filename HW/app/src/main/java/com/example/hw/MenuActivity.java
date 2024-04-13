@@ -126,7 +126,8 @@ public class MenuActivity extends AppCompatActivity implements View.OnClickListe
         Toast.makeText(this, "Saved", Toast.LENGTH_SHORT).show();
     }
 
-    private void load() {                                                                           //method load()
+    private void load() {
+        //method load()
         sp = getPreferences(MODE_PRIVATE);
         for (int i = 0; i < 7; i++) {                                                               //gets the lb
             String key_n = "n" + i;
